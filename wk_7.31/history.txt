@@ -1,0 +1,500 @@
+   45  li
+   46  v .bashrc 
+   47  alias
+   48  exit
+   49  cl
+   50  alias
+   51  li
+   52  cl
+   53  which alias
+   54  type alias
+   55  ls /bin/sh
+   56  ls -lh /bin/sh
+   57  sudo pacman -Syy
+   58  sudo pacman -Syu
+   59  cl
+   60  yay
+   61  cl
+   62  env
+   63  printenv
+   64  cl
+   65  env
+   66  printenv PATH
+   67  echo $PATH
+   68  ls $HOME
+   69  ls $PATH
+   70  cl
+   71  set
+   72  cl
+   73  set
+   74  cl
+   75  echo $my_variable
+   76  my_variable = Hello
+   77  my_variable=Hello
+   78  echo $my_variable
+   79  my_test=112
+   80  echo $mytest
+   81  ll
+   82  cd mycode/wk_7.29/
+   83  ll
+   84  cl
+   85  ll
+   86  v isUglyNumber.c
+   87  v generateUglyNumbers.c
+   88  v generateUglyNumbers.c
+   89  cl
+   90  find ugly
+   91  ll
+   92  find -name ugly
+   93  find -name "ugly"
+   94  find -name "*.c"
+   95  fing -type c
+   96  fing -type f
+   97  fing -f
+   98  cl
+   99  find /dev -type b
+  100  find /dev -type c
+  101  cl
+  102  echo $my_variable 
+  103  exit
+  104  echo $my_test1
+  105  exit
+  106  cl
+  107  echo $my_varible
+  108  my_variable=Hello
+  109  echo $my_variable 
+  110  my_test1="Hello World!"
+  111  echo $my_test1 
+  112  bash
+  113  exit
+  114  exit
+  115  echo $my_test1
+  116  exit
+  117  echo $my_test1
+  118  my_test1 = "Hello"
+  119  my_test1="Hello"
+  120  echo $my_test1
+  121  export my_test1
+  122  echo $my_test1
+  123  exit
+  124  cl
+  125  my_test1="global element"
+  126  echo $my_test1 
+  127  bash 
+  128  echo $my_test1 
+  129  export my_test1
+  130  echo $my_test1 
+  131  bash
+  132  echo $my_test1 
+  133  unset my_test1 
+  134  echo $my_test1 
+  135  cl
+  136  printenv PATH
+  137  XL
+  138  CL
+  139  cl
+  140  cd mycode/
+  141  ll
+  142  cat
+  143  cat
+  144  cat
+  145  cl
+  146  echo
+  147  saf
+  148  cl
+  149  cat -n main.c
+  150  cat -n tutor.zh_cn.utf-8 
+  151  cl
+  152  cat main.c tutor.zh_cn.utf-8 
+  153  cl
+  154  head -n main.c tutor.zh_cn.utf-8 
+  155  head -n main.c
+  156  head tutor.zh_cn.utf-8 
+  157  head -n 5 tutor.zh_cn.utf-8 
+  158  head -n -2 main.c
+  159  tail tutor.zh_cn.utf-8 
+  160  tail -n 5tutor.zh_cn.utf-8 
+  161  tail -n 5 tutor.zh_cn.utf-8 
+  162  tail -n +3 main.c
+  163  tail -n +3 -F main.c
+  164  cl
+  165  who
+  166  cd ..
+  167  ll
+  168  cat l.
+  169  :q
+  170  :
+  171  cl
+  172  ll
+  173  rm l.
+  174  ll
+  175  cl
+  176  wc
+  177  who > user.txt
+  178  ll
+  179  cat user.txt 
+  180  wc user.txt 
+  181  wc -l user.txt 
+  182  wc
+  183  cl
+  184  ll
+  185  cat user.txt 
+  186  who > user.txt 
+  187  cat user.txt 
+  188  who >> user.txt 
+  189  cat user.txt 
+  190  cat user.txt > user1.txt 
+  191  cat user1.txt 
+  192  ll
+  193  cat user1.txt file1
+  194  cat user1.txt file1 > error.txt
+  195  cat user1.txt file1 > test_error.txt
+  196  cat test_error.txt 
+  197  cat user1.txt file1 2> test_error.txt
+  198  cat test_error.txt 
+  199  cat user1.txt file1 >& test_error.txt
+  200  ll
+  201  cat test_error.txt 
+  202  cat error.txt 
+  203  rm error.txt 
+  204  ll
+  205  mkdir TEST_LINUX
+  206  ll
+  207  mv user.txt user1.txt test_error.txt a.txt TEST_LINUX/
+  208  LL
+  209  ll
+  210  cd TEST_LINUX/
+  211  LL
+  212  ll
+  213  cl
+  214  ll
+  215  exit
+  216  main
+  217  ps -f
+  218  ps --forest
+  219  exit
+  220  cl
+  221  set
+  222  cl
+  223  env
+  224  printenv PATH
+  225  echo &PATH
+  226  echo $PATH
+  227  ll
+  228  cd mycode/
+  229  ll
+  230  ./main 
+  231  cl
+  232  cd ..
+  233  PATH=$PATH:/home/xiao/mycode/
+  234  main
+  235  bash
+  236  main
+  237  EXIT
+  238  exit
+  239  main
+  240  exit
+  241  main
+  242  PATH=$PATH:.
+  243  main
+  244  cd mycode/
+  245  main
+  246  bash main
+  247  bash
+  248  main
+  249  cd /etc
+  250  ll
+  251  cat profile
+  252  cat bash.bashrc 
+  253  cd profile.d/
+  254  ll
+  255  cd ~
+  256  ll
+  257  l.
+  258  cat .bash_profile 
+  259  cat .bash_logout 
+  260  cat .bashrc
+  261  cat /etc/profile
+  262  cl
+  263  printenv $PATH 
+  264  printenv PATH
+  265  LL
+  266  ll
+  267  l.
+  268  cl
+  269  l.
+  270  cat .bash_profile 
+  271  cd /dev/null
+  272  cd -
+  273  pwd
+  274  cd ~
+  275  cl
+  276  l.
+  277  cat .bashrc 
+  278  cat .bash_profile 
+  279  cat /etc/profile
+  280  cd ~
+  281  l.
+  282  cd .opam/
+  283  ll
+  284  cd default/
+  285  ll
+  286  cl
+  287  cd ~
+  288  l.
+  289  cd .config/
+  290  l.
+  291  ll
+  292  cd /
+  293  l.
+  294  ll
+  295  cd ~
+  296  /ect
+  297  cd /
+  298  ll
+  299  cd /etc
+  300  ls
+  301  cd systemd/
+  302  ll
+  303  cat user.conf 
+  304  cd ~
+  305  ll
+  306  l.
+  307  v 
+  308  v .bash_profile 
+  309  cd /etc
+  310  ll
+  311  cat profile
+  312  v profile
+  313  sudo v profile
+  314  sudo nvim profile
+  315  sudo nvim profile
+  316  exit
+  317  main
+  318  echo $PATH
+  319  cl
+  320  exit
+  321  printenv PATH
+  322  cd mycode/
+  323  main
+  324  printenv BASHENV
+  325  printenv BASH_ENV
+  326  printenv PATH
+  327  cl
+  328  bash 
+  329  ps -f
+  330  cl
+  331  cd /etc
+  332  ll
+  333  cd profile.d/
+  334  ll
+  335  cat locale.sh 
+  336  cd .
+  337  cd ..
+  338  ll
+  339  cd profile.d/
+  340  ll
+  341  cl
+  342  cd ~
+  343  ll
+  344  l.
+  345  cl
+  346  nvim
+  347  sudo nvim /etc/profile
+  348  source /etc/profile
+  349  echo $PATH
+  350  exit
+  351  cd ~
+  352  userdel test1
+  353  sudo userdel test1
+  354  cd /home/
+  355  l.
+  356  ll
+  357  sudo userdel -e test1
+  358  sudo userdel -r test1
+  359  ll
+  360  rm -r test1/
+  361  sudo rm -r test1/
+  362  l.
+  363  ll
+  364  cl
+  365  cat .bashrc
+  366  cd xiao/
+  367  cat .bashrc
+  368  cd /etc
+  369  ll
+  370  cd skel/
+  371  ll
+  372  l.
+  373  cat .bashrc1 > .bashrc
+  374  sudo cat .bashrc1 > .bashrc
+  375  su 
+  376  cd ~
+  377  cl
+  378  ll
+  379  sudo useradd -m test1
+  380  cd /home/
+  381  sudo passwd test1
+  382  ll
+  383  l.
+  384  exit
+  385  su test1
+  386  exit
+  387  ls
+  388  cl
+  389  echo $PATH
+  390  cat .bashrc 
+  391  cl
+  392  history 
+  393  history | wc
+  394  cd TEST_LINUX/
+  395  ll
+  396  cl
+  397  history | tail -n 50 > his1.txt
+  398  ll
+  399  cat his1.txt 
+  400  cl
+  401  type history 
+  402  which tail
+  403  cd ..
+  404  ls
+  405  ll
+  406  cl
+  407  ll
+  408  cd TEST_LINUX/
+  409  cl
+  410  ll
+  411  umask
+  412  mkdir tt
+  413  ll
+  414  cl
+  415  man scp
+  416  ll
+  417  cd ..
+  418  ll
+  419  cl
+  420  ll
+  421  cat user.txt 
+  422  rm user.txt 
+  423  ll
+  424  man tar
+  425  cd TEST_LINUX/
+  426  ll
+  427  cl
+  428  tar cvf *
+  429  ll
+  430  cat his1.txt 
+  431  cl
+  432  ll
+  433  ls -al
+  434  cl
+  435  ll
+  436  tar cvf a.tar *
+  437  ll
+  438  tar t a.tar
+  439  tar tvf a.tar
+  440  tar tf a.tar
+  441  cl
+  442  cat /etc/passwd
+  443  sudo cat /etc/shadow
+  444  cl
+  445  sudo cat /etc/shadow
+  446  cl
+  447  cat /etc/default/useradd 
+  448  sudo cat /etc/default/useradd 
+  449  /etc/default/useradd -D
+  450  sudo /etc/default/useradd -D
+  451  cl
+  452  /usr/sbin/useradd  -D
+  453  ls /etc/skel/
+  454  l. /etc/skel/
+  455  cd /etc/skel/
+  456  ll
+  457  l.
+  458  cat .bashrc 
+  459  cd ~/.bashrc
+  460  cat ~/.bashrc
+  461  cl
+  462  cat .bashrc 
+  463  cat ~/.bashrc
+  464  cat ~/.bashrc > .bashrc 
+  465  sudo cat ~/.bashrc > .bashrc 
+  466  su 
+  467  cl
+  468  cd ~
+  469  ll
+  470  useradd -m test1
+  471  sudo useradd -m test1
+  472  cd /home/
+  473  ll
+  474  cd test1/
+  475  su test1
+  476  passwd test1
+  477  su 
+  478  cl
+  479  l.
+  480  ll
+  481  cd test1
+  482  sudo cd test1
+  483  sudo passwd test1
+  484  su test1/
+  485  sudo su test1/
+  486  cd test1
+  487  sudo passwd test1 
+  488  sudo su test1
+  489  exit
+  490  sudo useradd test1
+  491  sudo userdel test1
+  492  sudo useradd -m test1
+  493  sudo passwd test1 
+  494  cd /home/
+  495  ll
+  496  cd test1/
+  497  su test1/
+  498  sudo su test1/
+  499  sudo su test1
+  500  exit
+  501  cl
+  502  ls /home/
+  503  sudo userdel test1 
+  504  sudo userdel -m test1 
+  505  sudo userdel -r test1 
+  506  ls /home/
+  507  ls -al /home/
+  508  find /home/ -name "snippet"
+  509  sudo find /home/ -name "snippet"
+  510  sudo find /home/ -name "*sinppet*.c"
+  511  cd ~
+  512  l.
+  513  ll
+  514  vim
+  515  vim main.c
+  516  sudo find /home/ -name "*snippet*.c"
+  517  sudo find . -name "*snippet*.c"
+  518  sudo find / -name "*snippet*.c"
+  519  vim
+  520  cd /
+  521  ll
+  522  cd /etc
+  523  ll
+  524  cl
+  525  cd /
+  526  ll
+  527  l.
+  528  cd /etc
+  529  ll
+  530  l.
+  531  v vimrc 
+  532  cl
+  533  cd `
+  534  cd ~
+  535  cl
+  536  ll
+  537  cd mycode/
+  538  ll
+  539  mkdir wk_7.31
+  540  cd wk_7.31/
+  541  ll
+  542  cl
+  543  history 
+  544  history > history.txt
